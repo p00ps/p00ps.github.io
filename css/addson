@@ -1,0 +1,5 @@
+.featured-button{
+	top:50%;
+	margin-top:-16px;
+	position:relative;
+}
