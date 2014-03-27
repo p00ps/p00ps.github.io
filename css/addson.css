@@ -1,12 +1,11 @@
 .featured-button{
-	bottom: 1%;
 	margin-left:auto;
 	margin-right: auto;
-	position:absolute;
+	
 }
 
 #homepage-welcome{
-	margin:2% 2% 2% 2%;
-	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+	padding: 10% 5% 5% 10%;
 	background-color: red;
 }
