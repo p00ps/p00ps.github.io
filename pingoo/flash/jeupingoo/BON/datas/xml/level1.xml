@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+if ("nom de la balise" in XML){
+	pour faire de la recherche d'xml pour faire des choses
+}
+
+if ("nom de balise/attr/etc" is unTypeEx:XML,Class=Mechant,etc){ alors } 
+
+tile = tuile de jeu ici une tuile de 50px/50px
+-->
+
+
+<data>
+	<config>
+		<tile width="50" height="50"/>	
+		<background file="bg.png" movable="no" />
+	</config>
+	<plan>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+	</plan>
+	<plan>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="pig.png" memo="PIG" />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="pig.png" memo="PIG" />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="pig.png" memo="PIG" />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="pig.png" memo="PIG" />
+			<case />
+			<case />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="pig.png" memo="PIG" />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case mechant="ghost" movable="true" move="y" amplitude="4" speed="3" mvt="loop" autokill="no" killtouch="3" point="25" />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case mechant="citrouille" movable="true" move="x" amplitude="4" speed="2" mvt="loop" autokill="no" killtouch="2" point="20" />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+		<colonne>
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case />
+			<case file="sol.png" memo="SOL1" />
+		</colonne>
+	</plan>
+</data>
