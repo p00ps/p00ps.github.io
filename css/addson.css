@@ -15,10 +15,10 @@
 }
 
 #homepage-welcome .cowhen img {
-    max-width: 50%;
+    max-width: 75%;
     position: absolute;
     right: 100px;
-    top: 30px; 
+    top: 250px; 
 	}
     @media only screen and (max-width: 40em) {
       #homepage-hero .cowhen img {
