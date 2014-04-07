@@ -21,7 +21,7 @@
     top: 180px; 
 	}
     @media only screen and (max-width: 40em) {
-      #homepage-hero .cowhen img {
+      #homepage-welcome .cowhen img {
         width: 100%;
         position: relative;
         right: 0;
@@ -29,7 +29,7 @@
         top: 0px;
         left: 120px; } }
     @media only screen and (min-width:40.063em) and (max-width:64em) {
-      #homepage-hero .cowhen img {
+      #homepage-welcome .cowhen img {
         width: 100%;
         position: absolute;
         right: 0;
