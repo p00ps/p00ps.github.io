@@ -15,8 +15,8 @@
 }
 
 #homepage-hero .cowhen img {
-    max-width: 50%;
-    position: absolute;
+    max-width: 75%;
+    position: relative;
     right: 100px;
     top: 30px; }
     @media only screen and (max-width: 40em) {
