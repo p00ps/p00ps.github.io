@@ -1,3 +1,8 @@
+.tnprojet{
+    width: 80%;
+    margin: 2%;
+}
+
 .featured-button{
 	margin-top: 30%;
 	margin-left:auto;
@@ -9,10 +14,6 @@
 	padding: 10% 5% 5% 10%;
 	background-image: url(../img/homepagebg.png);
 	}
-
-#flashContent{
-	margin: 10% 0% 0% 10%;
-}
 
 #homepage-welcome .cowhen img {
     max-width: 80%;
@@ -34,4 +35,8 @@
         position: absolute;
         right: 0;
         bottom: 0px; } }
+
+#flashContent{
+    margin: 10% 0% 0% 10%;
+}
 
