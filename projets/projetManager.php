@@ -1,5 +1,4 @@
 <?php
-
 switch ($_GET['nomProjet']) {
 	case 'android':
 		displayAndroidProjet();
@@ -11,6 +10,19 @@ switch ($_GET['nomProjet']) {
 		displayCmsProjet();
 		break;
 	default:
+	echo '<div class="large-12 columns" role="content">
+      <article>
+        <h3><a href="#">PROJET MACHIN TOP SECRET</a></h3>
+        <div class="row">
+          <div class="large-8 columns">
+            <p>Pense a faire un include pour chaque projet en peusheupeuh.</p>
+            <p>et patati et pastrami</p>
+          </div>
+          <div class="large-4 columns">
+            <img src="http://placehold.it/400x240&text=[img]" />
+          </div>
+        </div>
+      </article>';
 		break;
 }
 
