@@ -42,18 +42,18 @@
     <!-- Thumbnails -->
  
         <div class="large-4 small-4 columns tnprojet">
-          <a href=""><img src="http://placehold.it/250x250&text=Thumbnail" /></a>
-          <h6 class="panel">Android</h6>
+          <a href="projetManager.php?nomProjet=android"><img src="http://placehold.it/250x250&text=Thumbnail" />
+          <h6 class="panel">Android</h6></a>
         </div>
  
         <div class="large-4 small-4 columns">
-          <a href=""><img src="http://placehold.it/250x250&text=Thumbnail"/></a>
-          <h6 class="panel">Php/MySQL/HTML5/CSS3</h6>
+          <a href="projetManager.php?nomProjet=php"><img src="http://placehold.it/250x250&text=Thumbnail"/>
+          <h6 class="panel">Php/MySQL/HTML5/CSS3</h6></a>
         </div>
  
         <div class="large-4 small-4 columns">
-          <a href=""><img src="http://placehold.it/250x250&text=Thumbnail"/></a>
-          <h6 class="panel">CMS</h6>
+          <a href="projetManager.php?nomProjet=cms"><img src="http://placehold.it/250x250&text=Thumbnail"/>
+          <h6 class="panel">CMS</h6></a>
         </div>
  
     <!-- End Thumbnails -->
@@ -68,8 +68,12 @@
  
   <div class="row">
     <!-- Main Blog Content -->
+    <!-- php projet-->
+<?php
+ include('projetManager.php');
+?>
+
     <div class="large-12 columns" role="content">
- 
       <article>
         <h3><a href="#">PROJET MACHIN TOP SECRET</a></h3>
         <div class="row">
