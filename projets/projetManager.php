@@ -1,4 +1,5 @@
 <?php
+
 switch ($_GET['nomProjet']) {
 	case 'android':
 		displayAndroidProjet();
