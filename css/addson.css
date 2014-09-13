@@ -12,15 +12,14 @@ h6.panel{
 	text-align: center;
 }
 
-article#android>h3{
+article#android h3{
 	text-decoration: none;
 	text-transform: uppercase;
+	color: #cc0000;
 }
 
 article#android ul li{
-	text-decoration: none;
-	list-items: none;
-	color: #cc0000;
+	list-style: none;
 }
 
 .featured-button{
