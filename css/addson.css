@@ -12,6 +12,10 @@ h6.panel{
 	text-align: center;
 }
 
+article>h3{
+	text-transform: uppercase;
+}
+
 .featured-button{
 	margin-top: 30%;
 	margin-left:auto;
