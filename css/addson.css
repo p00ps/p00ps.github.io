@@ -22,6 +22,10 @@ article ul li{
 	list-style: none;
 }
 
+article ul li:first-letter{
+	text-transform: uppercase;
+}
+
 .featured-button{
 	margin-top: 30%;
 	margin-left:auto;
