@@ -12,12 +12,10 @@ h6.panel{
 	text-align: center;
 }
 
-article#android{
-	color:#cc0000;
-}
-
-article>h3{
+article#android>h3{
+	text-decoration: none;
 	text-transform: uppercase;
+	color: #cc0000;
 }
 
 .featured-button{
