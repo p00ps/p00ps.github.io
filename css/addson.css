@@ -12,13 +12,13 @@ h6.panel{
 	text-align: center;
 }
 
-article#android h3{
+article h3{
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #cc0000;
 }
 
-article#android ul li{
+article ul li{
 	list-style: none;
 }
 
