@@ -3,7 +3,7 @@
     margin-bottom: 3%;
 }
 
-#thumbnails.tnprojet{
+#thumbnails>.tnprojet{
 	height: 250px;
 }
 
