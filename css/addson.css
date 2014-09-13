@@ -12,6 +12,10 @@ h6.panel{
 	text-align: center;
 }
 
+article#android{
+	color:#cc0000;
+}
+
 article>h3{
 	text-transform: uppercase;
 }
