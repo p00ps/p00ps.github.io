@@ -29,9 +29,10 @@ article ul li:first-letter{
 	text-transform: uppercase;
 }
 
-#thumb img {
+#thumb {
 	height: 240px;
 	width: 400px;
+	overflow: hidden;
 }
 
 .featured-button{
