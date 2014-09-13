@@ -3,6 +3,10 @@
     margin-bottom: 3%;
 }
 
+#thumbnails.tnprojet{
+	height: 250px;
+}
+
 .featured-button{
 	margin-top: 30%;
 	margin-left:auto;
