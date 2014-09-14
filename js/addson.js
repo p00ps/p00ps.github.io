@@ -1,31 +1,21 @@
 $(document).ready(function(){    
 
-	var c = $("thumbnails").children().find("a");
-	c.click(function(){
-		filtre();
+	var a = $('#thumbnails').children();
+	a.click(function(){
+		//alert($(this).index());
+		filtre($(this).index());
 	})
 
+	filtre(0);
 
 
 
+});
 
 
-
-
-
-
-
-
-
-
-})
-
-
-
-
-
-function filtre(){
-	alert("toto");
-
+function filtre(pId){
+	var article = $("#filtreconteneur").find("article");
+	article.css('display','none');
+	article.eq(pId).css('display','block');
 
 }
