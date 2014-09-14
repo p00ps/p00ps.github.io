@@ -25,7 +25,7 @@ $(document).ready(function(){
 
 
 function filtre(){
-	alert ("toto");
+	alert("toto");
 
 
 }
