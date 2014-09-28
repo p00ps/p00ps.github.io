@@ -29,6 +29,10 @@ article ul li:first-letter{
 	text-transform: uppercase;
 }
 
+#card{
+    text-align: center;
+}
+
 #thumb {
 	height: 240px;
 	margin-bottom: 8px;
