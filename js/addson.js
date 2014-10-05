@@ -25,10 +25,19 @@ function repositionScroll(){
        .animate({scrollTop: $(target).offset().top}, 1000 );
     });
 
+/*
 	$('.scrollverstop').click(function(e){
 		e.preventDefault();
 		$('html, body').stop().animate({scrollTop: 0}, 'fast');
-	});
+	}); 
+*/
+
+	$('#contConn article').find('a').on('click', function(evt){
+       evt.preventDefault(); 
+		var target =  $(this).attr('href');
+		$('html, body').stop().animate({scrollTop: $(target).offset().top}, 1000 );
+    });
+
 }
 
 //------------------------------------------------------> filtre projet

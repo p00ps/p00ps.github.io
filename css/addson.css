@@ -35,8 +35,18 @@ article ul li:first-letter{
 
 @media only screen and (max-width: 40em) {
       #card img {
-        width: 20%;
+        width: 150px;
         } 
+    #card.tnprojet>img{
+        height: 150px;
+    }
+    #card.tnprojet{
+        height: 200px;
+    }
+    #thumbnails{
+        margin-bottom: 30px;
+}
+   
     }
 
 .artCo{
