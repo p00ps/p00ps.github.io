@@ -1,19 +1,12 @@
 $(document).ready(function(){    
-
 	var a = $('#thumbnails').children();
 	a.click(function(){
 		//alert($(this).index());
 		filtre($(this).index());
 	})
-
 	filtre(0);
-
 	repositionScroll();
-
 });
-
-
-
 
 //------------------------------------------------------> repositionnement des ancres
 
@@ -24,11 +17,11 @@ function repositionScroll(){
        evt.preventDefault(); 
        // enregistre la valeur de l'attribut  href dans la variable target
 	var target = $(this).attr('href');
-       /* le sélecteur $(html, body) permet de corriger un bug sur chrome et safari (webkit) */
+       // le sélecteur $(html, body) permet de corriger un bug sur chrome et safari (webkit)
 	$('html, body')
        // on arrête toutes les animations en cours 
        .stop()
-       /* on fait maintenant l'animation vers le haut (scrollTop) vers notre ancre target */
+       // on fait maintenant l'animation vers le haut (scrollTop) vers notre ancre target
        .animate({scrollTop: $(target).offset().top}, 1000 );
     });
 
@@ -36,11 +29,9 @@ function repositionScroll(){
 		e.preventDefault();
 		$('html, body').stop().animate({scrollTop: 0}, 'fast');
 	});
-
 }
 
 //------------------------------------------------------> filtre projet
-
 function filtre(pId){
 	var article = $("#filtreconteneur").find("article");
 	article.eq(pId).stop().fadeIn(2000);
